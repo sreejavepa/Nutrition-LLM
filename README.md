@@ -5,7 +5,7 @@
 - Replace token in area that says 'YOUR_AUTH_TOKEN' under ngrok. 
 
 Notebook Widgets Note
-Some interactive elements (widgets) may not display properly in GitHub. To use them fully download the notebook and open it in Google Colab. 
+Some interactive elements (widgets) may not display properly in GitHub. To use them fully download notebooks and open in Google Colab. 
 - If still facing error, please install ipywidgets.
 
 -------------------------------
