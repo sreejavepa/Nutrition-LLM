@@ -16,4 +16,4 @@ To use streamlit interface:
 
 Other code: 
 1. Open Part2_Project_Nutrient_8_15 for pipeline code.
-2. Open 
+2. Open Data Cleaning - Project_Nutrient for additional cleaning code. 
